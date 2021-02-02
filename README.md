@@ -4,7 +4,7 @@ Following Basic Finace Function that is implemented in this file in Python.
 
 - Future Value
 
-FV=PV(1+r)^{n}
+$$ FV= PV*(1+r)^n $$
 
 FV	=	future value
 
