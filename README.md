@@ -4,7 +4,7 @@ Following Basic Finace Function that is implemented in this file in Python.
 
 - Future Value
 
-     <img src="https://render.githubusercontent.com/render/math?math=FV= PV*(1%2Br)^n">
+     <img src="https://render.githubusercontent.com/render/math?math=\Huge FV= PV*(1%2Br)^n">
 
      FV	=	future value
 
