@@ -24,9 +24,9 @@ Following Basic Finace Function that is implemented in this file in Python.
      
      FV	=	future value
      
-     r	=	rate of return
+     r	=	annual interest rate
      
-     n	=	number of periods
+     n	=	number of periods interest held
      
 
 ## present value of Annuity
@@ -60,4 +60,4 @@ Following Basic Finace Function that is implemented in this file in Python.
      
      pmt  =  periodic payments
      
-     i    =  interest rate
+     i    = annual interest rate
