@@ -51,9 +51,12 @@ Following Basic Finace Function that is implemented in this file in Python.
 ## Effective Annual Rate
 
    - Formula
-   <!--
-     <img src="https://render.githubusercontent.com/render/math?math=\Huge EAR= \frac(1%2B{i}{m}^m})-1"> 
-   -->
+ 
+     <img src="https://render.githubusercontent.com/render/math?math=\Huge EAR= (1%2B  \frac{i}m)^m-1"> 
+
+      i = annual interest rate
+
+      m = number of compounding periods
    
 ## value of perpetuity
 
