@@ -29,8 +29,18 @@ Following Basic Finace Function that is implemented in this file in Python.
      n	=	number of periods
      
 
-- present value of Annuity
-- Future Value of annuity
-- Effective Annual Rate
-- value of perpetuity
+## present value of Annuity
 
+   - Formula
+   
+## Future Value of annuity
+
+   - Formula
+   
+## Effective Annual Rate
+
+   - Formula
+   
+## value of perpetuity
+
+   - Formula
