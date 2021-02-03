@@ -31,10 +31,22 @@ Following Basic Finace Function that is implemented in this file in Python.
 
 ## present value of Annuity
 
+ ### ordinary Annuity
+
+   - Formula
+   
+ ### Due Annuity
+ 
    - Formula
    
 ## Future Value of annuity
 
+ ### ordinary Annuity
+
+   - Formula
+   
+ ### Due Annuity
+ 
    - Formula
    
 ## Effective Annual Rate
