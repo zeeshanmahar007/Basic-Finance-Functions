@@ -51,6 +51,9 @@ Following Basic Finace Function that is implemented in this file in Python.
 ## Effective Annual Rate
 
    - Formula
+   <!--
+     <img src="https://render.githubusercontent.com/render/math?math=\Huge EAR= \frac(1%2B{i}{m}^m})-1"> 
+   -->
    
 ## value of perpetuity
 
