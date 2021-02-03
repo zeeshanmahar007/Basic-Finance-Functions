@@ -32,8 +32,7 @@ Following Basic Finace Function that is implemented in this file in Python.
 ## present value of Annuity
 
  ### ordinary Annuity
-
-   - Formula
+  - Formula
    
  ### Due Annuity
  
@@ -56,3 +55,9 @@ Following Basic Finace Function that is implemented in this file in Python.
 ## value of perpetuity
 
    - Formula
+   
+     <img src="https://render.githubusercontent.com/render/math?math=\Huge PV= \frac{pmt}{i}">
+     
+     pmt  =  periodic payments
+     
+     i    =  interest rate
