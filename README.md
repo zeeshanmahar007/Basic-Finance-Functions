@@ -5,28 +5,28 @@ Following Basic Finace Function that is implemented in this file in Python.
 ## Future Value
    - Formula
 
-     <img src="https://render.githubusercontent.com/render/math?math=\Huge FV= PV*(1%2Br)^n">
+      <img src="https://render.githubusercontent.com/render/math?math=\Huge FV= PV*(1%2Br)^n">
 
-     FV	=	future value
+      FV	=	future value
 
-     PV	=	present value
+      PV	=	present value
 
-     r	=	annual interest rate
+      r	=	annual interest rate
 
-     n	=	number of periods interest held
+      n	=	number of periods interest held
 
 ## present Value
    - Formula
 
-     <img src="https://render.githubusercontent.com/render/math?math=\Huge PV=FV \frac{1}{(1%2Br)^{n}}">
+      <img src="https://render.githubusercontent.com/render/math?math=\Huge PV=FV \frac{1}{(1%2Br)^{n}}">
 
-     PV	=	present value
+      PV	=	present value
      
-     FV	=	future value
+      FV	=	future value
      
-     r	=	annual interest rate
+      r	=	annual interest rate
      
-     n	=	number of periods interest held
+      n	=	number of periods interest held
      
 
 ## present value of Annuity
@@ -34,17 +34,25 @@ Following Basic Finace Function that is implemented in this file in Python.
  ### ordinary Annuity
   - Formula
   
-    <img src="https://render.githubusercontent.com/render/math?math=\Huge FVA= \frac{Pmt}{i}*(1-\frac{1}{(1%2Bi)^n})">
+      <img src="https://render.githubusercontent.com/render/math?math=\Huge PVA= \frac{Pmt}{i}*(1-\frac{1}{(1%2Bi)^n})">
   
-    pmt  =  periodic payments
+      pmt  =  periodic payments
      
-    i    = annual interest rate
+      i    = annual interest rate
   
-    n	=	number of periods
+      n	=	number of periods
    
  ### Due Annuity
  
    - Formula
+   
+      <img src="https://render.githubusercontent.com/render/math?math=\Huge PVA= \frac{Pmt}{i}*(1-\frac{1}{(1%2Bi)^n})*(1%2Bi)">
+  
+      pmt  =  periodic payments
+     
+      i    = annual interest rate
+  
+      n	=	number of periods
    
 ## Future Value of annuity
 
