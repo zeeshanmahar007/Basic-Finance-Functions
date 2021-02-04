@@ -15,7 +15,7 @@ Following Basic Finace Function that is implemented in this file in Python.
 
       n	=	number of periods interest held
 
-## present Value
+## Present Value
    - Formula
 
       <img src="https://render.githubusercontent.com/render/math?math=\Huge PV=FV \frac{1}{(1%2Br)^{n}}">
@@ -29,7 +29,7 @@ Following Basic Finace Function that is implemented in this file in Python.
       n	=	number of periods interest held
      
 
-## present value of Annuity
+## Present Value of Annuity
 
  ### ordinary Annuity
   - Formula
@@ -54,9 +54,9 @@ Following Basic Finace Function that is implemented in this file in Python.
   
       n	=	number of periods
    
-## Future Value of annuity
+## Future Value of Annuity
 
- ### ordinary Annuity
+ ### Ordinary Annuity
 
    - Formula
    
@@ -90,7 +90,7 @@ Following Basic Finace Function that is implemented in this file in Python.
 
       m = number of compounding periods
    
-## value of perpetuity
+## Value of Perpetuity
 
    - Formula
    
