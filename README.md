@@ -33,6 +33,14 @@ Following Basic Finace Function that is implemented in this file in Python.
 
  ### ordinary Annuity
   - Formula
+  
+    <img src="https://render.githubusercontent.com/render/math?math=\Huge FVA= \frac{Pmt}{i}*(1-\frac{1}{(1%2Bi)^n})">
+  
+    pmt  =  periodic payments
+     
+    i    = annual interest rate
+  
+    n	=	number of periods
    
  ### Due Annuity
  
