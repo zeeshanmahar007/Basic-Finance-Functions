@@ -60,6 +60,14 @@ Following Basic Finace Function that is implemented in this file in Python.
 
    - Formula
    
+      <img src="https://render.githubusercontent.com/render/math?math=\Huge FVA= \frac{Pmt}{i}*({(1%2Bi)^n}-1)">
+  
+      pmt  =  periodic payments
+     
+      i    = annual interest rate
+  
+      n	=	number of periods
+   
  ### Due Annuity
  
    - Formula
